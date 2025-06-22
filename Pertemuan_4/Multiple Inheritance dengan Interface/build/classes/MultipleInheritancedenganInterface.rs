@@ -1,0 +1,4 @@
+Hewan
+Kucing
+MultipleInheritancedenganInterface
+Mamalia
